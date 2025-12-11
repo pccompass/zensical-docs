@@ -5,8 +5,7 @@ repo_url = "https://github.com/pccompass/zensical-docs"
 
 [nav]
 home = "index.md"
-sa_system_analysis = "SA_system_analysis.md"
-
+sa_system_analysis = "docs/SA_system_analysis.md"
 [theme]
 name = "material"
 
