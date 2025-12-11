@@ -1,0 +1,13 @@
+[project]
+site_name = "Zensical Documentation"
+site_url = "https://pccompass.github.io/zensical-docs/"
+repo_url = "https://github.com/pccompass/zensical-docs"
+
+[nav]
+home = "index.md"
+
+[theme]
+name = "material"
+
+[plugins]
+search = {}
